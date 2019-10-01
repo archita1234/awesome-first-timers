@@ -523,3 +523,7 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+- Name: Archita gupta
+  Place: kanpur,India
+  BIo:  student(IT),btech 2nd year
+  GitHub:[archita1234](https://github.com/archita1234)
